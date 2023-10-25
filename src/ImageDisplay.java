@@ -67,15 +67,7 @@ public class ImageDisplay extends Application {
         Tooltip tooltipti = new Tooltip("Program Keahlian Teknologi Informasi ");
        
         //Set Durasi
-        tooltipterminal.setShowDelay(Duration.ZERO);
-        tooltipgedungadmin.setShowDelay(Duration.ZERO);
-        tooltipaula.setShowDelay(Duration.ZERO);
-        tooltipotomotif.setShowDelay(Duration.ZERO);
-        tooltipmesin.setShowDelay(Duration.ZERO);
-        tooltipbangunan.setShowDelay(Duration.ZERO);
-        tooltipelektronika.setShowDelay(Duration.ZERO);
-        tooltipedukasi.setShowDelay(Duration.ZERO);
-        tooltipti.setShowDelay(Duration.ZERO);
+
 
 
         // Menambahkan tooltip ke elemen gedung
